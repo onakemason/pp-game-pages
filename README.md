@@ -1,2 +1,14 @@
 # pp-game-pages
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+发布程序会将生成后的页面写入本仓库，形成可追踪的文件记录。
+
+## 文件存档
+
+- 页面文件由发布任务写入
+- README 作为仓库说明保留
+
+## 使用说明
+
+如需查看页面内容，请打开对应的 HTML 文件或 Pages 地址。
